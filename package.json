@@ -1,0 +1,23 @@
+{
+  "name": "@mathpag/fibonacci",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "keywords": [
+    "fibonacci"
+  ],
+  "homepage": "https://github.com/MatheoPag/First-npm-publish#readme",
+  "bugs": {
+    "url": "https://github.com/MatheoPag/First-npm-publish/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheoPag/First-npm-publish.git"
+  },
+  "license": "ISC",
+  "author": "MatheoPag",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
